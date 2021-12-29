@@ -1,6 +1,15 @@
 package day2;
 
 public class lift {
+//States
+
+    // allowedNumberOfPerson (maxCapacity)
+    // allowedWeight
+    // currentNumberOfPerson
+    // currentWeight
+    // color
+    // numberOfFloorSwitch
+    // isEmergencyButtonAvailable
 
     int allowedNumberOfPerson;
     float allowedWeight;
@@ -10,3 +19,10 @@ public class lift {
     int numberOfFloorSwitch;
     boolean isEmergencyButtonAvailable;
 }
+
+// Behaviour
+
+//liftGoingUp
+//liftGoingDown
+//liftDoorOpen
+//liftDoorClose

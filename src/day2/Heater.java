@@ -1,6 +1,18 @@
 package day2;
 
 public class Heater {
+    // states
+
+    // brand
+    // color
+    // model
+    // size
+    // powerConsumption
+    // electricOrGas
+    // portable
+    // price
+    // numberOfButtons
+
     String brand;
     String color;
     String model;
@@ -13,3 +25,8 @@ public class Heater {
 
 
 }
+// behaviour
+
+// rotate
+// on
+// off

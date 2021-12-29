@@ -2,6 +2,19 @@ package day2;
 
 public class Student {
     // states- declare variables
+    // name
+    // phoneNumber
+    // dob
+    // class
+    // rollNumber
+    // height
+    // address
+    // idNumber
+    // email
+    // username
+    // password
+    // emergencyContactNumber
+    // socialSecurityNumber
 
     String name;
     String phoneNumber;
@@ -19,3 +32,12 @@ public class Student {
 
 
 }
+// behaviour
+
+// present
+// studying
+// playing
+// working
+// teaching
+// discussing
+// eating

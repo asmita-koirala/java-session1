@@ -1,6 +1,18 @@
 package day2;
 
 public class laptop {
+     //States
+
+     // color
+     // model
+     // operatingSystem
+     // brand
+     // processorType
+     // serialNumber
+     // isTouchScreen
+     // price
+     // screenSize
+
      String color;
      String model;
      String operatingSystem;
@@ -11,3 +23,8 @@ public class laptop {
      float price;
      float screenSize;
 }
+//Behaviours
+
+// starting
+// shuttingDown
+// playingMovie
