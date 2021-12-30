@@ -20,7 +20,7 @@ public class Heater {
     float powerConsumption;
     boolean electricOrGas;
     boolean portable;
-    int price;
+    float price;
     int numberOfButtons;
 
 
