@@ -20,7 +20,7 @@ public class Student {
     String phoneNumber;
     String dob;
     String sClass;
-    private String rollNumber;
+    String rollNumber;
     float height;
     String address;
     String idNumber;

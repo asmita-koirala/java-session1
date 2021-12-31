@@ -1,6 +1,6 @@
 package day2;
 
-public class lift {
+public class Lift {
 //States
 
     // allowedNumberOfPerson (maxCapacity)

@@ -1,6 +1,6 @@
 package day2;
 
-public class laptop {
+public class Laptop {
      //States
 
      // color
