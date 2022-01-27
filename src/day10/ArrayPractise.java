@@ -1,3 +1,5 @@
+package day10;
+
 import day4.Account;
 
 import java.util.logging.Logger;
