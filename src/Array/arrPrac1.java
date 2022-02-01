@@ -12,7 +12,7 @@ public class arrPrac1 {
         userNames.add("Ram");
         userNames.remove("BA");
         System.out.println(userNames);
-        System.out.println(userNames.contains("Ganesh"))
+        System.out.println(userNames.contains("Ganesh"));
 
     }
 }
